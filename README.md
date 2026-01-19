@@ -24,29 +24,6 @@ Common vulnerability classes include:
 
 ---
 
-## 🧪 Methodology
-
-Each report typically includes:
-- Vulnerability description
-- Affected endpoint or component
-- Step-by-step reproduction steps
-- Proof of Concept (PoC)
-- Impact assessment
-- Remediation recommendations
-
----
-
-## 🛠️ Tools Used
-
-- Burp Suite
-- Nmap
-- Metasploit
-- Android Studio
-- Drozer
-- ADB
-
----
-
 ## ⚠️ Disclaimer
 
 All information in this repository is provided **for educational purposes only**.
@@ -59,7 +36,7 @@ All information in this repository is provided **for educational purposes only**
 
 ## 👤 Author
 
-**Hossam Mohamed**  
+**Hossam Mohamed Abo Khaleel**  
 Junior Penetration Tester | Bug Bounty Hunter  
 
 🔗 LinkedIn: https://www.linkedin.com/in/hossam-mohameddd
